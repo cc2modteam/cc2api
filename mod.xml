@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data name="CC2API" author="Bredroll" description="
+
+Basic debug/exploration API for CC2
+
+Send arbitrary lua commands to CC2 and read the results.
+
+"/>
